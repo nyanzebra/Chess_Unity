@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="4" Column="13" />
+      <File FileName="Assets\Scripts\Chess\ChessBoard.cs" Line="75" Column="72" />
+      <File FileName="Assets\Scripts\Chess\ChessSquare.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Chess\ChessPieces\ChessPiece.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="66" Column="41" />
+      <File FileName="Assets\Scripts\NetworkManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Chess\Graveyard.cs" Line="19" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Robert\Documents\Unity\Chess\Assets\Scripts\UIManagerScript.cs" line="51" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
