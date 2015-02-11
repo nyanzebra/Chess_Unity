@@ -1,0 +1,12 @@
+C:\Users\Robert\Documents\Unity\Chess\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Robert\Documents\Unity\Chess\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Robert\Documents\Unity\Chess\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Robert\Documents\Unity\Chess\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Robert\Documents\Unity\Chess\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Robert\Documents\Unity\Chess\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Robert\Documents\Unity\Chess\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Robert\Documents\Unity\Chess\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Robert\Documents\Unity\Chess\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Robert\Documents\Unity\Chess\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Unity\Chess\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Robert\Documents\Unity\Chess\obj\Debug\Assembly-CSharp-firstpass.pdb
